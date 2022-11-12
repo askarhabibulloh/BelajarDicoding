@@ -1,0 +1,19 @@
+body {
+    background-image: url(bg.jpg);
+}
+
+.navbar h1 {
+    color: #fff;
+    text-align: left;
+    display: inline;
+}
+.navbar ul {
+    float: right;
+}
+.navbar ul li{
+    display: inline;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+}
